@@ -1,0 +1,54 @@
+//while(stackC.getSize() < count)
+		{
+			/*if(stackB.peek() == null || (stackB.peek() != null && stackA.peek() != null && stackB.peek() > stackA.peek()))
+			{
+				stackB.push(stackA.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}
+			if(stackC.peek() == null || (stackC.peek() != null && stackA.peek() != null && stackC.peek() > stackA.peek()))
+			{
+				stackC.push(stackA.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}
+			if(stackC.peek() == null || (stackB.peek() != null && stackC.peek() != null && stackC.peek() > stackB.peek()))
+			{
+				stackC.push(stackB.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}
+			if(stackB.peek() == null || (stackB.peek() != null && stackC.peek() != null && stackB.peek() > stackC.peek()))
+			{
+				stackB.push(stackC.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}
+			if(stackA.peek() == null || (stackC.peek() != null && stackA.peek() != null && stackA.peek() > stackC.peek()))
+			{
+				stackA.push(stackC.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}
+			if(stackA.peek() == null || (stackB.peek() != null && stackA.peek() != null && stackA.peek() > stackB.peek()))
+			{
+				stackA.push(stackB.pop());
+				System.out.print(stackA.toString());
+				System.out.print(stackB.toString());
+				System.out.println(stackC.toString());
+				continue;
+			}*/
+			
+			
+			
+		}

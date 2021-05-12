@@ -1,0 +1,3 @@
+		//stacks[0] = new StackU<Integer>();
+		//stacks[1] = new StackU<Integer>();
+		//stacks[2] = new StackU<Integer>();

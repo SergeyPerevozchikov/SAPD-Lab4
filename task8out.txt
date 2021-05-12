@@ -1,0 +1,5 @@
+that support Java without the need for recompilation
+write once, run anywhere, meaning that compiled Java code can run on all platforms 
+It is a general-purpose programming language intended to let application developers 
+that is designed to have as few implementation dependencies as possible. 
+Java is a High Level, class-based, object-oriented programming language 
